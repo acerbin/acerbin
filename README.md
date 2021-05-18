@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acerbin
+- 👋 Hi, I’m @kat
 - 👀 I’m interested in Web Development and Testing
 - 🌱 I’m currently learning Java Script, Node, React
 - 💞️ I’m looking to collaborate on Web Development and Testing
